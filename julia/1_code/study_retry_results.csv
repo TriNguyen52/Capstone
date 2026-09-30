@@ -1,0 +1,3 @@
+group,label,status,runtime_seconds,contact_time_ms,max_deflection_mm,energy_ratio,restitution,final_dt_ms,dr_mm,error
+resolution,N75,failed,9.858000040054321,NaN,NaN,NaN,NaN,NaN,NaN,"DomainError with -2.220446049250313e-16:
+sqrt was called with a negative real argument but will only return a complex result if called with a complex argument. Try sqrt(Complex(x))."
